@@ -12,7 +12,7 @@ de funciones C.
 Estas funciones son esenciales para manipular cadenas de caracteres y se
 basan en las funciones estándar de \<string.h\>:
 
--\ft_strlen\: Calcula la longitud de una cadena.
+-"ft_strlen": Calcula la longitud de una cadena.
 
 -\ft_strcpy, ft_strncpy\: Copia una cadena en otra.
 
@@ -135,8 +135,8 @@ comando:
 
 🧩 Estructuración y optimización de código.
 
-💡 Gestión de memoria y creación de estructuras de datos. Autor ✍🏼 100px
-gemartin Intra 42 
+💡 Gestión de memoria y creación de estructuras de datos.
+
 ## Quizás pueda interesarte! 
 - Para ver mi progresion en el common core 42 ↙️
 [AQUI](https://github.com/pmelo-cl/42Cursus)
