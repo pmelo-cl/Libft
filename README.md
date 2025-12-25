@@ -1,4 +1,4 @@
-#📚 Libft
+# 📚 Libft
 
 Libft es el primer proyecto de la escuela 42. 
 ## ✨ Descripción del proyecto
