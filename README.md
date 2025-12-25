@@ -61,15 +61,15 @@ minúsculas.
 Estas funciones son utilizadas para verificar tipos de caracteres,
 similares a las de <ctype.h>:
 
--\ft_isalpha\: Verifica si el carácter es alfabético.
+-ft_isalpha: Verifica si el carácter es alfabético.
 
--\ft_isdigit\: Verifica si el carácter es numérico.
+-ft_isdigit: Verifica si el carácter es numérico.
 
--\ft_isalnum\: Verifica si el carácter es alfanumérico.
+-ft_isalnum: Verifica si el carácter es alfanumérico.
 
--\ft_isascii\: Verifica si el carácter es ASCII.
+-ft_isascii: Verifica si el carácter es ASCII.
 
--\ft_isprint\: Verifica si el carácter es imprimible. 
+-ft_isprint: Verifica si el carácter es imprimible. 
 
 ### 5. Funciones Adicionales ✨
 
