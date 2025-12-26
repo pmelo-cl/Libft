@@ -137,5 +137,5 @@ comando:
 
 - Gestión de memoria y creación de estructuras de datos.
 
-## Quizás pueda interesarte! 
+## Más sobre mi
 - Para ver mi progresion en el common core 42 [AQUI](https://github.com/pmelo-cl/42Cursus)
